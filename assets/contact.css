@@ -2,7 +2,7 @@
 
     font-size: 26pt;
     background-color: #1abc9c;
-    padding-left: 24px;
+    padding-left: 14px;
     border-style: solid;
     border-width: 2px;
     width: 20%;
@@ -10,11 +10,11 @@
 }
 
 .navbar {
-    padding-left: 162px;
+    padding-left: 270px;
 }
 
 .navbar-nav {
-    padding-right: 150px;
+    padding-right: 210px;
 }
 
 .container {
@@ -29,4 +29,12 @@
 
 .mx-auto {
     background-color: #dfe6e9;
+}
+
+h1 {
+    padding-left: 10px;
+}
+
+.btn {
+    background-color: #1abc9c;
 }
