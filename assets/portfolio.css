@@ -9,6 +9,10 @@
     vertical-align: center;
 }
 
+body {
+    background-color: #dfe6e9;
+}
+
 .navbar {
     padding-left: 275px;
     border-top: solid;
@@ -33,7 +37,7 @@
 }
 
 .mx-auto {
-    background-color: #dfe6e9;
+    background-color: whitesmoke;
 }
 
 .overlay {
