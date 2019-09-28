@@ -1,0 +1,28 @@
+.navbar-brand {
+
+    font-size: 26pt;
+    background-color: #55efc4;
+    text-align: middle;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+
+}
+
+.navbar-nav {
+    padding-right: 150px;
+}
+
+.container {
+    border-style: solid;
+
+}
+
+.fixed-bottom {
+    background-color: #55efc4;
+}
+
+.mx-auto {
+    background-color: #dfe6e9;
+}
