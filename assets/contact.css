@@ -7,6 +7,7 @@
     border-width: 2px;
     width: 20%;
     vertical-align: center;
+
 }
 
 body {
@@ -18,10 +19,13 @@ body {
     border-top: solid;
     border-bottom: solid;
     border-width: 2px;
+
+
 }
 
 .navbar-nav {
     padding-right: 210px;
+
 }
 
 .container {
