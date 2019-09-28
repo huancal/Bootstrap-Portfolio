@@ -11,6 +11,9 @@
 
 .navbar {
     padding-left: 270px;
+    border-top: solid;
+    border-bottom: solid;
+    border-width: 2px;
 }
 
 .navbar-nav {
@@ -37,4 +40,10 @@ h1 {
 
 .btn {
     background-color: #1abc9c;
+}
+
+a:hover {
+    transform: translate(-2px, -6px);
+    transition: all 0.15s ease-in;
+    text-shadow: 3px 3px 3px rgb(116, 113, 113);
 }

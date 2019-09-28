@@ -11,6 +11,9 @@
 
 .navbar {
     padding-left: 162px;
+    border-top: solid;
+    border-bottom: solid;
+    border-width: 2px;
 }
 
 .navbar-nav {
@@ -29,4 +32,14 @@
 
 .mx-auto {
     background-color: #dfe6e9;
+}
+
+img {
+    margin-left: 5px
+}
+
+a:hover {
+    transform: translate(-2px, -6px);
+    transition: all 0.15s ease-in;
+    text-shadow: 3px 3px 3px rgb(116, 113, 113);
 }
